@@ -1,6 +1,0 @@
-{
-  "dependencies": {
-    "react-router-dom": "^6.28.0",
-    "webpack-dev-server": "^5.1.0"
-  }
-}
